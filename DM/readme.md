@@ -62,4 +62,4 @@ Le DM s'articulera en 3 exercices :
 * [Aide pour rédiger une note de lecture] (https://www.reseau-canope.fr/savoirscdi/fileadmin/fichiers_auteurs/cdi_outil_pedagogique/Apprentissage_et_construction_des_savoirs/Liaison_lyc_univ/Comment_faire_une_note_de_lecture-aubanel.pdf?fbclid=IwAR29dC58giGpgrdpAaITgJrEvY-PoQfxTZ2wTRIh2QOW3NSwJOF-Y9rsl94)
 * les slides des séances des cours précédents disponibles sur > https://coursenligne.parisnanterre.fr
 * [La section "aide" des ressources en ligne du Service commun de documentation de l'Université Paris Nanterre]
-(http://scd.parisnanterre.fr/se-former/aide-en-ligne/les-ressources-en-ligne--621303.kjsp?RH=1437404917528)
+(http://scd.parisnanterre.fr/travailler/trouver-un-document/acceder-aux-ressources-en-ligne/) [URL mis à jour]
