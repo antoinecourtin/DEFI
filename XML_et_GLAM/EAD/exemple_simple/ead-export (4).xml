@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd
+(Encoded Archival Description (EAD) Version 2002)//EN"   "ead.dtd" >
+<ead>
+<eadheader>
+<eadid></eadid>
+<filedesc>
+<titlestmt>
+<titleproper></titleproper>
+</titlestmt>
+<publicationstmt>
+<publisher>Institut national d'histoire de l'art (INHA)</publisher>
+<date></date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation></creation>
+<langusage>Description rédigée en <language langcode="fre">français</language></langusage>
+<descrules>Description conforme à à la norme ISAD(G) et encodé selon la syntaxe XML-EAD
+</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="recordgrp">
+<did>
+<repository>
+<corpname authfilenumber="751029801" normal="Institut national d'histoire de l'art" source="Répertoire_des_centres_de_ressources">INHA</corpname>
+</repository>
+<unitid type="cote">Archives 033</unitid>
+<unitid type="ancienne_cote">Fonds anciennement cotés : Archives 032, 033, 034, 040 ; Autographes 86bis. Connu sous le nom de "Fonds Burty".</unitid>
+<unittitle>
+<persname role="producteur"  normal="Burty, Philippe (6 février 1830-3 juin 1890)">Burty, Philippe (6 février 1830-3 juin 1890)</persname>
+<persname role="producteur"  normal="Robaut, Alfred (1830-1909)">Robaut, Alfred (1830-1909)</persname>
+<persname role="producteur"  normal="Tourneux, Maurice (1849-1917)">Tourneux, Maurice (1849-1917)</persname>
+<persname role="producteur"  normal="Bruyas, Alfred (15 août 1821-1er janvier 1877)">Bruyas, Alfred (15 août 1821-1er janvier 1877)</persname>
+. fonds
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="1831/1911" >
+1831-1911
+</unitdate>
+<langmaterial><language langcode="fre">français</language></langmaterial>
+<physdesc>
+<extent>
+1 boîte ; Métrage linéaire : 0,12 m.-l.
+</extent>
+</physdesc>
+</did>
+<bioghist><p>Ce fonds comprend des archives issues de quatre producteurs. Il a été constitué en 2001 à partir d’archives classées auparavant séparément : archives 32, 33, 34, 40, autographes 86bis. Les principaux sous-fonds qui ont été créés - Bruyas, Burty, Robaut, Tourneux - demeurent très imbriqués les uns avec les autres. Ces archives sont passées manifestement entre les mêmes mains avant d’entrer à la Bibliothèque et il n’est pas sûr qu’elles aient été séparées au moment de leur entrée, ce qui explique le choix de reconstitution fait en 2001. On trouve par exemple des archives produites par Philippe Burty dans le sous-fonds Maurice Tourneux.
+L’entrée de ces archives dans les collections de la Bibliothèque est mal documentée.  Elle est peut-être due au seul Maurice Tourneux, conseiller de Jacques Doucet.
+Archives Bruyas : leur entrée dans les collections de la Bibliothèque n’est pas documentée.
+Archives Burty : elles ont été léguées par Burty à Maurice Tourneux et sont entrées à la Bibliothèque via Tourneux.
+Archives Robaut : Alfred Robaut est le neveu et gendre du peintre Constant Dutilleux (1807-1865), ami d’Eugène Delacroix. Collectionneur d’oeuvres de Delacroix, Robaut est l’auteur du premier catalogue consacré à Delacroix, ainsi que l’auteur d’une copie du journal de Delacroix réalisée avant la publication (copie conservée à la Getty Research Library : < http://hdl.handle.net/10020/cat133080>). L’histoire des archives Robaut est peu claire : une partie aurait été confiée par Robaut à Philippe Burty pour ses travaux et n’aurait peut-être pas été restituée à Robaut. Des dessins, archives et autographes appartenant à Robaut auraient été vendus au collectionneur Étienne Moreau-Nélaton qui, d’après André Joubin [communication verbale de Michèle Hannoosch], aurait légué ces pièces à la Bibliothèque d’art et d’archéologie et au Musée du Louvre. Par ailleurs, il y eut une vente posthume de documents appartenant à Robaut.
+Archives Tourneux : elles ont été données par Tourneux à la Bibliothèque d’art et d’archéologie, à une date indéterminée.</p></bioghist>
+<scopecontent>
+<p>Archives relatives aux travaux d'Alfred Bruyas, Philippe Burty, Alfred Robaut et Maurice Tourneux.</p>
+</scopecontent>
+<acqinfo><p>Don, Maurice Tourneux ?</p></acqinfo>
+<accessrestrict>
+<p>communication dans l'espace Jacques Doucet</p>
+</accessrestrict>
+<userestrict>
+<p>reproduction autorisée dans le respect de la législation sur le droit d'auteur</p>
+</userestrict>
+<relatedmaterial>
+<p>Commentaire sources : Sources complémentaires dans le service : Autographes 98 (Burty)
+Manuscrits Ms 214-216, concernant Alfred Bruyas et sa collection
+La Bibliothèque possède une édition de la correspondance de Delacroix, annotée par Robaut</p>
+</relatedmaterial>
+<otherfindaid><p><p>
+Inventaire disponible en ligne sur <a href="http://www.calames.abes.fr/Pub/inha.aspx#details?id=FileId-2149">Calames</a></p></p></otherfindaid>
+<bibliography>
+<bibref> Tourneux, Maurice. « Philippe Burty ». Gazette des beaux-arts, mai 1907, p. 388. -</bibref>
+<bibref>Agence bibliographique de l'enseignement supérieur (Montpellier) (Organisme) : <extref href="http://www.calames.abes.fr/pub/">Url page d'accueil : http://www.calames.abes.fr/pub/</extref> ; <extref href=" http://www.calames.abes.fr/Pub/ms/FileId-2149"> http://www.calames.abes.fr/Pub/ms/FileId-2149</extref></bibref>
+</bibliography>
+<processinfo>
+<p><date>2005-02-01 : saisi par Bariteaud, Anne</date></p>
+<p><date>2018-11-12  : modifié par soderrot</date></p>
+</processinfo>
+<controlaccess>
+<persname role="producteur" normal="Burty, Philippe (6 février 1830-3 juin 1890)">Burty, Philippe (6 février 1830-3 juin 1890)</persname>
+</controlaccess>
+<controlaccess>
+<persname role="producteur" normal="Robaut, Alfred (1830-1909)">Robaut, Alfred (1830-1909)</persname>
+</controlaccess>
+<controlaccess>
+<persname role="producteur" normal="Tourneux, Maurice (1849-1917)">Tourneux, Maurice (1849-1917)</persname>
+</controlaccess>
+<controlaccess>
+<persname role="producteur" normal="Bruyas, Alfred (15 août 1821-1er janvier 1877)">Bruyas, Alfred (15 août 1821-1er janvier 1877)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Bonington, Richard Parkes (25 octobre 1802 (3 Brumaire An 11)-23 septembre 1828)">Bonington, Richard Parkes (25 octobre 1802 (3 Brumaire An 11)-23 septembre 1828)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Millet, Jean-François (4 octobre 1814-20 janvier 1875)">Millet, Jean-François (4 octobre 1814-20 janvier 1875)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Decamps, Alexandre-Gabriel (1803-1860)">Decamps, Alexandre-Gabriel (1803-1860)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Meryon, Charles (1821-1868)">Meryon, Charles (1821-1868)</persname>
+</controlaccess>
+<dao  href="Inventaire_Bruyas_Burty_Robaut_Tourneux_sur_Delacroix.pdf" />
+<dsc>
+<c>
+<did>
+<unitid type="cote">Archives 033, 01</unitid>
+<unittitle>
+Papiers Alfred Bruyas
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="1852/1876" >
+1852-1876
+</unitdate>
+<physdesc>
+<extent>
+Nombre de pièces : 48
+</extent>
+</physdesc>
+</did>
+<controlaccess>
+<persname  role="" normal="Chenavard, Paul (1807-1895)">Chenavard, Paul (1807-1895)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Géricault, Théodore (1791-1824)">Géricault, Théodore (1791-1824)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Tassaert, Octave (1800-1874)">Tassaert, Octave (1800-1874)</persname>
+</controlaccess>
+<c><did><unitid type="division"></unitid><unittitle>1-21. Lettres à Alfred Bruyas, 4 octobre 1852-1er août 1876 et sans date (21 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>22-36. « Notes sur les oeuvres de Chenavard, Tassaert, Géricault, etc. 1875 » : notes manuscrites de plusieurs mains (15 feuillets).</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>37. Copie d’un autographe de C. Alicot concernant un legs à Alfred Bruyas, 12 juin 1855</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>38-48. Notes manuscrites diverses concernant la galerie Bruyas (?) (11 feuillets)</unittitle><unitdate></unitdate></did></c>
+</c>
+<c>
+<did>
+<unitid type="cote">Archives 033, 02</unitid>
+<unittitle>
+Papiers relatifs à Eugène Delacroix, provenant d'Alfred Bruyas (?)
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="1873" >
+1873
+</unitdate>
+</did>
+<controlaccess>
+<persname  role="" normal="Delacroix, Eugène (26 avril 1798 (7 Floréal An 6)-13 août 1863)">Delacroix, Eugène (26 avril 1798 (7 Floréal An 6)-13 août 1863)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Silvestre, Théophile (12 octobre 1823-20 juin 1876)">Silvestre, Théophile (12 octobre 1823-20 juin 1876)</persname>
+</controlaccess>
+<c><did><unitid type="division"></unitid><unittitle>1. Lettre d’A. de Courval à Alfred Bruyas, 23 juin 1873.</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>2. « Copie d’une note extraite des agendas manuscrits d’Eugène Delacroix (M. Bruyas), 16 avril 1853 » : note manuscrite (1 feuillet)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>3-5. « Bonington » : extrait manuscrit d’une lettre d’Eugène Delacroix à Théophile Silvestre, 31 décembre 1858 (3 feuillets)</unittitle><unitdate></unitdate></did></c>
+</c>
+<c>
+<did>
+<unitid type="cote">Archives 033, 03</unitid>
+<unittitle>
+Papiers Philippe Burty
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="1861/1892" >
+1861-1892
+</unitdate>
+</did>
+<c>
+<did>
+<unitid type="cote">Archives 033, 03, 01</unitid>
+<unittitle>
+Jules Dupré
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="1876/1911" >
+1876-1911
+</unitdate>
+</did>
+<controlaccess>
+<persname  role="" normal="Dupré, Jules (5 avril 1811-6 octobre 1889)">Dupré, Jules (5 avril 1811-6 octobre 1889)</persname>
+</controlaccess>
+<c><did><unitid type="division"></unitid><unittitle>1-2. Photographie d’un autoportrait de Dupré et enveloppe (2 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>3. Note manuscrite (1 feuillet)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>4-7. Coupures de presse (4 pièces)</unittitle><unitdate></unitdate></did></c>
+</c>
+<c>
+<did>
+<unitid type="cote">Archives 033, 03, 02</unitid>
+<unittitle>
+Froment-Meurice
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="1868/1883" >
+1868-1883
+</unitdate>
+</did>
+<controlaccess>
+<persname  role="" normal="Froment-Meurice, François-Désiré (1802-1855)">Froment-Meurice, François-Désiré (1802-1855)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Froment-Meurice, Émile (21 mars 1837-25 avril 1913)">Froment-Meurice, Émile (21 mars 1837-25 avril 1913)</persname>
+</controlaccess>
+<c><did><unitid type="division"></unitid><unittitle>8-11. Lettres d’Emile Froment-Meurice à Philippe Burty, 1869-1883 et sans date (4 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>12-18. Lettres à Philippe Burty (dont Gaucherel et Jouaust), 1868-1883 et sans date (7 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>19-20. Notes manuscrites sur Froment-Meurice, d’après Michelet (?), sans date (2 feuillets)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>21-22. Coupures de presse sur Froment-Meurice, 1883 et sans date (2 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>23-35. Oeuvres de François-Désiré Froment-Meurice : reproductions gravées annotées, sans date (13 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>36-51. Oeuvres de François-Désiré Froment-Meurice : photographies annotées, sans date (16 pièces). La pièce 36 comprend un dessin au crayon.</unittitle><unitdate></unitdate></did></c>
+</c>
+<c>
+<did>
+<unitid type="cote">Archives 033, 03, 03</unitid>
+<unittitle>
+Ernest Meissonier
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="1861/1890" >
+1861-1890
+</unitdate>
+</did>
+<controlaccess>
+<persname  role="" normal="Meissonier, Ernest (21 février 1815-31 janvier 1891)">Meissonier, Ernest (21 février 1815-31 janvier 1891)</persname>
+</controlaccess>
+<c><did><unitid type="division"></unitid><unittitle>52-69. Photographie, lettre et notes manuscrites, 1865 et sans date (18 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>70-72. Tirés-à-part d’articles sur Meissonier, sans date (3 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>73-94. Coupures de presse, dont article de Ph. Burty, 1861-1891 (22 pièces)</unittitle><unitdate></unitdate></did></c>
+</c>
+<c>
+<did>
+<unitid type="cote">Archives 033, 03, 04</unitid>
+<unittitle>
+Jean-François Millet
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="1863/1892" >
+1863-1892
+</unitdate>
+</did>
+<controlaccess>
+<persname  role="" normal="Millet, Jean-François (4 octobre 1814-20 janvier 1875)">Millet, Jean-François (4 octobre 1814-20 janvier 1875)</persname>
+</controlaccess>
+<c><did><unitid type="division"></unitid><unittitle>95. Une lettre d’Alfred Sensier à Philippe Burty, 2 décembre 1863</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>96. Une lettre de Philippe Burty, 18 mai 1875</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>97. Une lettre de Paul Mame, 14 avril 1887</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>98. Une lettre d’Alfred Thibaudeau (Alphonse Wyatt Thibaudeau ?) à Philippe Burty, 28 mai 1887 </unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>99. Une lettre d’Aglaüs Bouvenne (1829-1903) à Maurice Tourneux, 7 novembre 1892</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>100. « Visite à Jean-François Millet » : notes manuscrites de Philippe Burty extraite d’un agenda, 1861 (1 feuillet)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>101-102. 2 cartes postales</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>103. « Catalogue of a complete collection of etchings and other prints done by Jean François Millet. Exhibited by Frederick Keppel &amp;amp; co. New-York, 1887 »</unittitle><unitdate></unitdate></did></c>
+</c>
+<c>
+<did>
+<unitid type="cote">Archives 033, 03, 05</unitid>
+<unittitle>
+Edmond de Goncourt
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="1875/1888" >
+1875-1888
+</unitdate>
+</did>
+<controlaccess>
+<persname  role="" normal="Goncourt, Edmond de (26 mai 1822-16 juillet 1896)">Goncourt, Edmond de (26 mai 1822-16 juillet 1896)</persname>
+</controlaccess>
+<c><did><unitid type="division"></unitid><unittitle>104. Lettre d’Edmond de Goncourt à Philippe Burty, 24 octobre 1875, à propos de la publication d’un catalogue (1 pièce)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>105-111. Ph. Burty, « La Maison d’un artiste : à propos du récent ouvrage de Edmond de Goncourt » : épreuves corrigées (7 feuillets)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>112. « La Vie populaire » : fascicule du 23 février 1888, avec un extrait de « Charles Demailly » des frères Goncourt</unittitle><unitdate></unitdate></did></c>
+</c>
+</c>
+<c>
+<did>
+<unitid type="cote">Archives 033, 04</unitid>
+<unittitle>
+Papiers relatifs à Eugène Delacroix, provenant de Ph. Burty (?)
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="1829/1852" >
+1829-1852
+</unitdate>
+</did>
+<controlaccess>
+<persname  role="" normal="Delacroix, Eugène (26 avril 1798 (7 Floréal An 6)-13 août 1863)">Delacroix, Eugène (26 avril 1798 (7 Floréal An 6)-13 août 1863)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Demidov, Anatoliï Nicolaevitch (1812-1870)">Demidov, Anatoliï Nicolaevitch (1812-1870)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Véron, Louis (5 avril 1798  (16 Germinal An 6)-27 novembre 1867)">Véron, Louis (5 avril 1798  (16 Germinal An 6)-27 novembre 1867)</persname>
+</controlaccess>
+<c><did><unitid type="division"></unitid><unittitle>1. Lettre d’Anatole Demidoff à Eugène Delacroix, 18 décembre 1837 (1 pièce). Au dos, mentions manuscrites de Delacroix (liste de noms : Testu, Delaborde, Menessier, etc.) et dessin</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>2-3. Lettres Louis Véron (1798-1867, directeur de l’Opéra) à Eugène Delacroix, 3 mai 1831 et 10 août 1852 (2 pièces). Au dos de la seconde, mentions manuscrites de Delacroix (liste de provisions), au crayon.</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>4. Lettre à Philippe Burty, 30 octobre 1877 (1 pièce)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>5-6. Eugène Delacroix, « Des critiques en matière d’arts », Revue de Paris, mai 1829 et « Portrait de Pie VII par Sir Thomas Lawrence », Revue de Paris, juillet 1829 : 2 tirés-à-part montés sur onglets.</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>7. Notice biographique sur Eugène Delacroix : manuscrit (1 feuillet)</unittitle><unitdate></unitdate></did></c>
+</c>
+<c>
+<did>
+<unitid type="cote">Archives 033, 05</unitid>
+<unittitle>
+Papiers Alfred Robaut
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="1865/1890" >
+1865-1890
+</unitdate>
+</did>
+<bioghist><p>Alfred Robaut (1830-1909), de Douai, lithographe, auteur du premier catalogue d’œuvres  de Delacroix et de Corot ; son oncle et beau-père est Constant Dutilleux, (1807-1865), peintre qui était ami de Delacroix et de Corot; Robaut n’a pas connu Delacroix, mais possédait à la fin de sa vie une collection d’œuvres de lui.</p></bioghist>
+<controlaccess>
+<persname  role="" normal="Le Gentil, Constant (1819-1901)">Le Gentil, Constant (1819-1901)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Dutilleux, Constant (5 octobre 1807-21 octobre 1865)">Dutilleux, Constant (5 octobre 1807-21 octobre 1865)</persname>
+</controlaccess>
+<c><did><unitid type="division"></unitid><unittitle>1-14. Lettres de Constant Le Gentil [collectionneur d’Arras, ami de Robaut et Dutilleux, qui a acheté par leur intermédiaire] à Alfred Robaut, 7 juin-29 juillet 1879 (14 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>15. Copie d’une lettre de Dutilleux, 29 janvier 1865. Notes mansucrites de Robaut au revers (1 pièce)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>16-39. Lettres adressées à Alfred Robaut (dont Alphonse Carrière, Paul Demeny, Charles Desavary (cousin de Robau), Paul Dutilleux, Alfred Le Brun, Cr. Mill, son père Félix Robaut, Achille Vogue, etc.), 1er mai-18 août 1879 (24 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>40-50. Salon de 1879 : coupures de presse (11 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>Sous-dossier Eugène Delacroix</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>51. A. Robaut, calque d’un dessin de Delacroix représentant une scène de prière dans une crypte.</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>52. 2 vignettes gravées montées ensemble d’oeuvres de Delacroix, dont « Chemin de croix ».</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>53. Lettre de L. Rougé à Constant Dutilleux ( ?), envoyé par lui à son oncle F. Dutilleux, 6 septembre 1865.</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>54. Lettre d’A. Robaut, avec reproduction dessinée d’une académie d’homme de Delacroix</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>ure de Robaut sur une chemise ne contenant pas de document correspondant, 30 septembre 1874.</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>55. Copie d’une lettre adressée au Préfet de la Seine,  novembre 1884</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>56. Lettre d’Aglaüs Bouvenne à A. Robaut, 6 juillet 1889.</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>57. Extrait d’une lettre de Fernand Calmettes, 6 octobre 1890.</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>58-73. Notes manuscrites, concernant la diffusion d’oeuvres de Delacroix : ventes, gravures et publications, contrefaçons (16 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>74. A. Robaut, « Relevé de gravures, lithographies ou photographies à la Bibliothèque impériale, des pièces qui manquent à notre collection Eugène Delacroix, commencé par C. Dutilleux en 1827 » : tableau imprimé annoté par Robaut (1 feuillet).</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>75-82. Catalogues de vente : coupures annotées (8 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>83-84. Anciens conditionnements annotés par Robaut</unittitle><unitdate></unitdate></did></c>
+</c>
+<c>
+<did>
+<unitid type="cote">Archives 033, 06</unitid>
+<unittitle>
+Papiers Maurice Tourneux
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="1831/1911" >
+1831-1911
+</unitdate>
+</did>
+<c>
+<did>
+<unitid type="cote">Archives 033, 06, 01</unitid>
+<unittitle>
+Correspondances et notes
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="1876/1911" >
+1876-1911
+</unitdate>
+</did>
+<controlaccess>
+<persname  role="" normal="Fillon, Benjamin (15 mars 1819-23 mai 1881)">Fillon, Benjamin (15 mars 1819-23 mai 1881)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Moreau-Nélaton, Étienne (2 décembre 1859-25 avril 1927)">Moreau-Nélaton, Étienne (2 décembre 1859-25 avril 1927)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Burty, Philippe (6 février 1830-3 juin 1890)">Burty, Philippe (6 février 1830-3 juin 1890)</persname>
+</controlaccess>
+<c><did><unitid type="division"></unitid><unittitle>1-15. Lettres de Maurice Tourneux à Benjamin Fillon (1819-1881), 28 novembre 1876-22 mars 1881 (15 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>16. Lettre de Maurice Tourneux à Mademoiselle [Fillon], 16 juin 1881 (1 pièce)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>17. Note manuscrite de Benjamin Fillon sur une céramique, sans date (1 feuillet)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>18-19. Benjamin Fillon, « Une statue de neige » et « Nécrologie de M. l’abbé Ferdinand Baudry » : coupures de presse, 1878-1880 (2 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>20-40. Benjamin Fillon, compte rendu d’A. Armand, « Les médailleurs italiens des XVe et XVIe siècles », Paris : Rollin et Feuardent, 1879 : manuscrit (21 feuillets).</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>41-55. Lettres d’Etienne Moreau-Nélaton à M. et Mme Maurice Tourneux, 1er juin 1891-21 juillet 1911 et sans date (15 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>56. Lettre de René Bouché à Maurice Tourneux, 19 novembre 1906, à propos d’un article d’Antoine Deschamps sur Eugène Delacroix</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>57-73. Maurice Tourneux, « Les origines de la galerie de l’Ermitage », sans date : notes manuscrites concernant notamment la collection Crozat</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>74. Ernest Chesneau, « Le romantisme jugé par un classique : Ingres, Eugène Delacroix, Géricault », extrait du « Constitutionnel », sans date. </unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle> 75-80. Six lettres de Philippe Burty à Maurice Tourneux, 1882-1884.</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>81. Une  lettre d’Alfred Prunaire, annotée par Burty, 1874.</unittitle><unitdate></unitdate></did></c>
+</c>
+<c>
+<did>
+<unitid type="cote">Archives 033, 06, 02</unitid>
+<unittitle>
+Alexandre-Gabriel Decamps
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="1831/1862" >
+1831-1862
+</unitdate>
+</did>
+<controlaccess>
+<persname  role="" normal="Decamps, Alexandre-Gabriel (1803-1860)">Decamps, Alexandre-Gabriel (1803-1860)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Gavarni (13 janvier 1804 (22 Nivôse An 12)-24 novembre 1866)">Gavarni (13 janvier 1804 (22 Nivôse An 12)-24 novembre 1866)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Chaumelin, Marius (15 avril 1833-20 octobre 1889)">Chaumelin, Marius (15 avril 1833-20 octobre 1889)</persname>
+</controlaccess>
+<c><did><unitid type="division"></unitid><unittitle>1-33. Notes manuscrites de Maurice Tourneux (33 feuillets)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>34-41. Coupures de presse (8 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>42. Philippe Burty ( ?), Tableau d’oeuvres vendues : manuscrit (1 pièce)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>43. Copie d’une lettre de Decamps à Gavarni, 14 juillet 1853 (1 pièce)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>44-48. Philippe Burty ( ?), « 25 novembre 1862. Quelques jours après ma longue visite chez Mme Decamps » : manuscrit (5 feuillets)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>49. Marius Chaumelin, « Decamps. Sa vie, son oeuvre » (Marseille, 1861, 44 p.) : imprimé dédicacé à Philippe Burty</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>50. Lettre de Marius Chaumelin à Philippe Burty, 26 juin 1861 (1 pièce)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>51-56. « Salon de 1831 » : extrait imprimé (5 feuillets)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>57-61. « Vieux orientaux : Decamps, Marilhat » : extrait imprimé (5 feuillets)</unittitle><unitdate></unitdate></did></c>
+</c>
+<c>
+<did>
+<unitid type="cote">Archives 033, 06, 03</unitid>
+<unittitle>
+Charles Méryon
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="1868/1894" >
+1868-1894
+</unitdate>
+</did>
+<controlaccess>
+<persname  role="" normal="Meryon, Charles (1821-1868)">Meryon, Charles (1821-1868)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Huish, Marcus Bourne (1845-1921)">Huish, Marcus Bourne (1845-1921)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Haden, Francis Seymour (1818-1910)">Haden, Francis Seymour (1818-1910)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Burty, Philippe (6 février 1830-3 juin 1890)">Burty, Philippe (6 février 1830-3 juin 1890)</persname>
+</controlaccess>
+<c><did><unitid type="division"></unitid><unittitle>1. Philippe Burty, copie d’une notice biographique sur Charles Méryon extraite de la « Chronique des Arts », 23 février 1868 : manuscrit (1 pièce)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>2. Lettre de Francis Seymour Haden à Philippe Burty, 11 juin [1879] (1 pièce)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>3-5. Lettres de Marcus Huish à Philippe Burty, 16 juin 1879-1er janvier 1880 (3 pièces)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>6. Lettre de Cr.  Doble ( ?) à Philippe Burty, 24 novembre 1879 (1 pièce)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>7. Lettre de E. Brown à Philippe Burty, 27 novembre 1879 (1 pièce)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>8. Lettre de [***fauchez] à Maurice Tourneux ( ?), 18 décembre 1894 (1 pièce)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>9. Note manuscrite de Philippe Burty (1 feuillet)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>10-15. Notes manuscrites de Maurice Tourneux (5 feuillets)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>16-19. Coupures de presse (4 pièces)</unittitle><unitdate></unitdate></did></c>
+</c>
+<c>
+<did>
+<unitid type="cote">Archives 033, 06, 04</unitid>
+<unittitle>
+Théodore Rousseau
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="1881/1910" >
+1881-1910
+</unitdate>
+</did>
+<controlaccess>
+<persname  role="" normal="Rousseau, Théodore (1812-1867)">Rousseau, Théodore (1812-1867)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Véron, Louis (5 avril 1798  (16 Germinal An 6)-27 novembre 1867)">Véron, Louis (5 avril 1798  (16 Germinal An 6)-27 novembre 1867)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Dorbec, Prosper (1870-)">Dorbec, Prosper (1870-)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Burty, Philippe (6 février 1830-3 juin 1890)">Burty, Philippe (6 février 1830-3 juin 1890)</persname>
+</controlaccess>
+<c><did><unitid type="division"></unitid><unittitle>1. Lettre de Louis Véron à Philippe Burty, 12 août 1881 (1 pièce)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>2. Lettre de Prosper Dorbec à Maurice Tourneux ( ?), 1er mai 1910 (1 pièce)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>3. Copie d’une lettre de Théodore Rousseau à Dupré, sans date (1 pièce)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>4-5. Notes manuscrites de Philippe Burty ( ?)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>6-8. « Tableaux et dessins de Théodore Rousseau... Catalogue 1878 », Ad. Braun &amp;amp; Cie : imprimé (3 feuillets)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>9-11. Notes manuscrites de Maurice Tourneux</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>12-16. Maurice Tourneux, « Théodore Rousseau », sans date : manuscrit (5 feuillets)</unittitle><unitdate></unitdate></did></c>
+</c>
+<c>
+<did>
+<unitid type="cote">Archives 033, 06, 05</unitid>
+<unittitle>
+Revue de l'art français
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="" >
+</unitdate>
+</did>
+<scopecontent><p>1-70. Notes manuscrites de  Maurice Tourneux</p></scopecontent>
+</c>
+</c>
+<c>
+<did>
+<unitid type="cote">Archives 033, 07</unitid>
+<unittitle>
+Varia
+</unittitle>
+<unitdate era="ce" calendar="gregorian" normal="1863" >
+1863
+</unitdate>
+</did>
+<controlaccess>
+<persname  role="" normal="Duprez, Gilbert (6 décembre 1806-23 septembre 1896)">Duprez, Gilbert (6 décembre 1806-23 septembre 1896)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Pasta, Giuditta (26 octobre 1797 (5 Brumaire An 6)-1er avril 1865)">Pasta, Giuditta (26 octobre 1797 (5 Brumaire An 6)-1er avril 1865)</persname>
+</controlaccess>
+<controlaccess>
+<persname  role="" normal="Millet, Aimé (1819-1891)">Millet, Aimé (1819-1891)</persname>
+</controlaccess>
+<c><did><unitid type="division"></unitid><unittitle>1. Gilbert Duprez, notes manuscrites sur la soprano Judith Pasta (1798-1865), sans date (1 pièce)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>2-4. Lettres d’Aimé Millet (1819-1891), sculpteur, à [Pauline Viardot ?], 25 janvier-11 juillet 1863 et sans date (3 pièces).</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>5. « Alexandre d’après les écrivains orientaux » : manuscrit, sans date (8 feuillets)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>6. « Chanson de l’amour » : notes manuscrites, sans date (1 feuillet)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>7. Notes manuscrites en italien, sans date (1 feuillet)</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle></unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>[Déplacé en Ms 250 où se trouve l’original : A. Joubin, « Ebauche de l’étude sur Raphaël » : copie dactylographiée pour la publication du texte de Delacroix]</unittitle><unitdate></unitdate></did></c><c><did><unitid type="division"></unitid><unittitle>[Déplacé en Ms 426 bis : notes de Pierre Andrieu, extraites de son journal, sur pages d’agenda]</unittitle><unitdate></unitdate></did></c>
+</c>
+</dsc>
+</archdesc>
+</ead>
+
