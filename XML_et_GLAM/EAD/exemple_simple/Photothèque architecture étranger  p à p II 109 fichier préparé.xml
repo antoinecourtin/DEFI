@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE ead SYSTEM "ead.dtd">
+<ead>
+<eadheader>
+<eadid countrycode="fr" mainagencycode="341720001" identifier="FR-751029801-001">FR-751029801-001</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Catalogue des dessins et photographies isolés</titleproper>
+<author>Bibliothèque de l'INHA</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Agence bibliographique de l'Enseignement supérieur</publisher>
+<date>Date de l'export</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Créé et encodé par export de la base AGORHA par la Bibliothèque de l'INHA, service du patrimoine</creation>
+<langusage>Catalogue rédigé en <language langcode="fre">français</language></langusage>
+<descrules>Description conforme au Manuel de catalogage Calames</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="recordgrp">
+<did><repository><corpname authfilenumber="751029801" normal="Institut national d'histoire de l'art" source="Répertoire_des_centres_de_ressources">INHA</corpname></repository>
+<unittitle>Catalogue des dessins et photographies isolés de la Bibliothèque de l'INHA</unittitle>
+</did>
+<dsc>
+<c>
+<did>
+<unitid type="cote">Photothèque architecture étranger II, 109 (4119) ; collé avec 4113</unitid>
+<unittitle>Fontaine à Berne, Suisse</unittitle>
+<unitdate era="ce" calendar="gregorian"	normal="1900">
+1900
+(d'après table chronologique de Maria Morris Hambourg, The work of Atget, vol.3)</unitdate>
+<physdesc>
+<dimensions>
+16.9 x 20.8 centimètres
+</dimensions>
+</physdesc>
+</did>
+<scopecontent>
+<p>Fontaine La cornemuse. </p>
+<p>Berne, Suisse</p>
+<p>Vue de la fontaine dite "La cornemuse", Berne.
+Cl. Atget 4119</p>
+<p>tampon : Suisse, Berne // cliché Atget n°4119</p>
+
+</scopecontent>
+<phystech>
+<p>l'écriture au verso du tirage a marqué l'émulsion</p>
+</phystech>
+<otherfindaid><extref linktype="simple" href="http://www.purl.org/inha/agorha/003/93002">Voir la notice présente dans la base Agorha</extref></otherfindaid>
+
+
+<controlaccess><persname role="070" normal="Atget, Eugène (1857-1927) (Paris)">Atget, Eugène (1857-1927) (Paris)</persname></controlaccess>
+
+</c>
+<c>
+<did>
+<unitid type="cote">Photothèque architecture étranger II, 109 (4113) ; collé avec 4119</unitid>
+<unittitle>Fontaine à Berne, Suisse</unittitle>
+<unitdate era="ce" calendar="gregorian"	normal="1900">
+1900
+(d'après table chronologique de Maria Morris Hambourg, The work of Atget, vol.3)</unitdate>
+<physdesc>
+<dimensions>
+17.2 x 21.3 centimètres
+</dimensions>
+</physdesc>
+</did>
+<scopecontent>
+<p>Berne, Suisse</p>
+<p>Vue de la fontaine dite "fontaine de l'ogre" ou "Kindlifresser", à Berne ; attribuée à Hans Grieg (XVIe siècle). Bouteilles et porte-bouteille au premier plan, enfants au second plan.
+Cl. Atget 4113</p>
+<p>tampon : Suisse, Berne // cliché Atget n°4113</p>
+
+</scopecontent>
+<phystech>
+<p>quelques tâches d'encre noire dans le ciel</p>
+</phystech>
+<otherfindaid><extref linktype="simple" href="http://www.purl.org/inha/agorha/003/93001">Voir la notice présente dans la base Agorha</extref></otherfindaid>
+
+
+<controlaccess><persname role="070" normal="Atget, Eugène (1857-1927) (Paris)">Atget, Eugène (1857-1927) (Paris)</persname></controlaccess>
+
+</c>
+<c>
+<did>
+<unitid type="cote">Photothèque architecture étranger II, 109 (4120) ; collé avec 4122</unitid>
+<unittitle>Fontaine à Berne, Suisse</unittitle>
+<unitdate era="ce" calendar="gregorian"	normal="1900">
+1900
+(d'après table chronologique de Maria Morris Hambourg, The work of Atget, vol.3)</unitdate>
+<physdesc>
+<physfacet type="technique">
+<genreform type="technique"  normal="photographie">papier albuminé</genreform>
+</physfacet>
+<dimensions>
+17.3 x 20.9 centimètres
+</dimensions>
+</physdesc>
+</did>
+<scopecontent>
+<p>Berne, Suisse</p>
+<p>Fontaine à Berne, dite fontaine de l'archer (Suisse)</p>
+<p>à l'encre en haut à droite : cl Atget 4120</p>
+
+</scopecontent>
+<otherfindaid><extref linktype="simple" href="http://www.purl.org/inha/agorha/003/92465">Voir la notice présente dans la base Agorha</extref></otherfindaid>
+
+
+<controlaccess><persname role="070" normal="Atget, Eugène (1857-1927) (Paris)">Atget, Eugène (1857-1927) (Paris)</persname></controlaccess>
+
+</c>
+<c>
+<did>
+<unitid type="cote">Photothèque architecture étranger II, 109 (4114)</unitid>
+<unittitle>Fontaine à Berne, Suisse</unittitle>
+<unitdate era="ce" calendar="gregorian"	normal="1900">
+1900
+(d'après table chronologique de Maria Morris Hambourg, The work of Atget, vol.3)</unitdate>
+<physdesc>
+<physfacet type="technique">
+<genreform type="technique"  normal="photographie">papier albuminé</genreform>
+</physfacet>
+<dimensions>
+17.1 x 21.3 centimètres
+</dimensions>
+</physdesc>
+</did>
+<scopecontent>
+<p>Fontaine à Berne, vasque et colonne (Suisse)
+Cl. Atget 4114</p>
+<p>tampon en haut à droite: cliché Atget 4114</p>
+</scopecontent>
+<otherfindaid><extref linktype="simple" href="http://www.purl.org/inha/agorha/003/92464">Voir la notice présente dans la base Agorha</extref></otherfindaid>
+
+
+<controlaccess><persname role="070" normal="Atget, Eugène (1857-1927) (Paris)">Atget, Eugène (1857-1927) (Paris)</persname></controlaccess>
+
+</c>
+<c>
+<did>
+<unitid type="cote">Photothèque architecture étranger II, 109 (4122) ; collé avec 4120</unitid>
+<unittitle>Fontaine à Berne, Suisse</unittitle>
+<unitdate era="ce" calendar="gregorian"	normal="1900">
+1900
+(d'après table chronologique de Maria Morris Hambourg, The work of Atget, vol.3)</unitdate>
+<physdesc>
+<physfacet type="technique">
+<genreform type="technique"  normal="photographie">papier albuminé</genreform>
+</physfacet>
+<dimensions>
+17.2 x 20.8 centimètres
+</dimensions>
+</physdesc>
+</did>
+<scopecontent>
+<p>Berne, Suisse</p>
+<p>Fontaine à Berne, dite Fontaine de Zähringen (Suisse)</p>
+</scopecontent>
+<phystech>
+<p>pliure coin en haut à droite</p>
+</phystech>
+<otherfindaid><extref linktype="simple" href="http://www.purl.org/inha/agorha/003/92466">Voir la notice présente dans la base Agorha</extref></otherfindaid>
+
+
+<controlaccess><persname role="070" normal="Atget, Eugène (1857-1927) (Paris)">Atget, Eugène (1857-1927) (Paris)</persname></controlaccess>
+
+</c>
+<c>
+<did>
+<unitid type="cote">Photothèque architecture étranger II, 109 (4105) ; collé avec 4108</unitid>
+<unittitle>Fontaine à Lausanne, Suisse</unittitle>
+<unitdate era="ce" calendar="gregorian"	normal="1900">
+1900
+(d'après table chronologique de Maria Morris Hambourg, The work of Atget, vol.3)</unitdate>
+<physdesc>
+<physfacet type="technique">
+<genreform type="technique"  normal="photographie">papier albuminé</genreform>
+</physfacet>
+<dimensions>
+17.4 x 20.9 centimètres
+</dimensions>
+</physdesc>
+</did>
+<scopecontent>
+<p>Lausanne, Suisse</p>
+<p>Fontaine à Lausanne (Suisse).
+cl. Atget 4105</p>
+
+</scopecontent>
+<otherfindaid><extref linktype="simple" href="http://www.purl.org/inha/agorha/003/92462">Voir la notice présente dans la base Agorha</extref></otherfindaid>
+
+
+<controlaccess><persname role="070" normal="Atget, Eugène (1857-1927) (Paris)">Atget, Eugène (1857-1927) (Paris)</persname></controlaccess>
+
+</c>
+<c>
+<did>
+<unitid type="cote">Photothèque architecture étranger II, 109 (4108) ; collé avec 4105</unitid>
+<unittitle>Fontaine à Lausanne, Suisse</unittitle>
+<unitdate era="ce" calendar="gregorian"	normal="1900">
+1900
+(d'après table chronologique de Maria Morris Hambourg, The work of Atget, vol.3)</unitdate>
+<physdesc>
+<physfacet type="technique">
+<genreform type="technique"  normal="photographie">papier albuminé</genreform>
+</physfacet>
+<dimensions>
+17.6 x 21.5 centimètres
+</dimensions>
+</physdesc>
+</did>
+<scopecontent>
+<p>Lausanne, Suisse</p>
+<p>Fontaine à Lausanne (Suisse)</p>
+</scopecontent>
+<otherfindaid><extref linktype="simple" href="http://www.purl.org/inha/agorha/003/92463">Voir la notice présente dans la base Agorha</extref></otherfindaid>
+
+
+<controlaccess><persname role="070" normal="Atget, Eugène (1857-1927) (Paris)">Atget, Eugène (1857-1927) (Paris)</persname></controlaccess>
+
+</c>
+</dsc>
+</archdesc>
+</ead>
+
